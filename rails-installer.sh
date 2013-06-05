@@ -4,7 +4,7 @@
 # Author: Ramesh Jha (ramesh@rameshjha.com),(http://blog.sudobits.com)
 # License: MIT 
 
-RUBY_VERSION="1.9.3"
+RUBY_VERSION="2.0.0"
 LOG_FILE="$HOME/install.log"
 
 echo "Rails Installer started"
